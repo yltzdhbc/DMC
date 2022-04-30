@@ -1,4 +1,6 @@
-# DJIMotorController
+## DMC
+
+### DJIMotorController
 
 > 大疆电机伺服控制器
 
@@ -14,7 +16,6 @@
 
 1. 下载安装git：下载地址 [https://git-scm.com/downloads](https://git-scm.com/downloads)
 2. 在桌面上（或者你想下载到的文件中）右键 选择 **“Git Bash Here”** 
-3. 输入命令 `git clone https://e.coding.net/yltzdhbc/hcrt/HCRT-DJIMotorController.git`
 
 ### 项目文件
 
@@ -25,14 +26,6 @@ Software：keil控制器程序
 Image：一些图片
 
 README.md：项目说明，解释文档
-
-### 硬件电路
-
-目前为EDA导出的 立创EDA源码，需要使用立创EDA打开
-
-### KEIL软件
-
-直接编译下载即可
 
 
 
@@ -54,11 +47,9 @@ README.md：项目说明，解释文档
 
    
 
-
-
 ## 更新日志
 
-### updata：2020.8.22 
+### rv2
 
 - **Edit：**ylt
 
@@ -68,7 +59,7 @@ README.md：项目说明，解释文档
 2. 调整了启动逻辑，上电无需发送任何动作，电机应该自锁
 3. 整理使用文档
 
-### updata：2020.1.28 
+### rv1
 
 - **Edit：**ylt
 
